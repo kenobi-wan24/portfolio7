@@ -1,7 +1,8 @@
 {
     "rewrites": [
-        {"source": "/(.*)", "destination": "logiin.html"}
+        {"source": "/(.*)", "destination": "/logiin.html"}
     ]
 
 
 }
+
